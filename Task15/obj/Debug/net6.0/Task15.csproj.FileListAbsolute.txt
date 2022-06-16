@@ -1,0 +1,15 @@
+/home/alex-comp/Рабочий стол/homeWork2Int/Task15/obj/Debug/net6.0/Task15.csproj.AssemblyReference.cache
+/home/alex-comp/Рабочий стол/homeWork2Int/Task15/obj/Debug/net6.0/Task15.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex-comp/Рабочий стол/homeWork2Int/Task15/obj/Debug/net6.0/Task15.AssemblyInfoInputs.cache
+/home/alex-comp/Рабочий стол/homeWork2Int/Task15/obj/Debug/net6.0/Task15.AssemblyInfo.cs
+/home/alex-comp/Рабочий стол/homeWork2Int/Task15/obj/Debug/net6.0/Task15.csproj.CoreCompileInputs.cache
+/home/alex-comp/Рабочий стол/homeWork2Int/Task15/bin/Debug/net6.0/Task15
+/home/alex-comp/Рабочий стол/homeWork2Int/Task15/bin/Debug/net6.0/Task15.deps.json
+/home/alex-comp/Рабочий стол/homeWork2Int/Task15/bin/Debug/net6.0/Task15.runtimeconfig.json
+/home/alex-comp/Рабочий стол/homeWork2Int/Task15/bin/Debug/net6.0/Task15.dll
+/home/alex-comp/Рабочий стол/homeWork2Int/Task15/bin/Debug/net6.0/Task15.pdb
+/home/alex-comp/Рабочий стол/homeWork2Int/Task15/obj/Debug/net6.0/Task15.dll
+/home/alex-comp/Рабочий стол/homeWork2Int/Task15/obj/Debug/net6.0/refint/Task15.dll
+/home/alex-comp/Рабочий стол/homeWork2Int/Task15/obj/Debug/net6.0/Task15.pdb
+/home/alex-comp/Рабочий стол/homeWork2Int/Task15/obj/Debug/net6.0/Task15.genruntimeconfig.cache
+/home/alex-comp/Рабочий стол/homeWork2Int/Task15/obj/Debug/net6.0/ref/Task15.dll
